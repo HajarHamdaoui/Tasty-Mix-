@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396333691761",
+    "project_id": "tastymix-4b456",
+    "storage_bucket": "tastymix-4b456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396333691761:android:60304f161ea1aa95af7cd0",
+        "android_client_info": {
+          "package_name": "com.example.tastymix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtGuUvb6w4GZzqA5aPlnVQHwLVQQDkhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
